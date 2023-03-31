@@ -1,4 +1,4 @@
 # Password-generator
 JS Password generator 
 
-Aplikacja stworzona za pomocą HTML + CSS oraz JavaScript generująca hasła o długości do 20 znaków, uwzględniająca wielkość liter, cyfry oraz symbole, w zależności od preferencji użytkownika.
+An application created using HTML + CSS and JavaScript that generates passwords of up to 20 characters in length, taking into account case-sensitive letters, numbers and symbols, depending on the user's preference.
